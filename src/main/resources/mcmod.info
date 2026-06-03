@@ -1,14 +1,13 @@
 [
 {
   "modid": "nofog",
-  "name": "NoFog",
+  "name": "No Water Or Lava Fog",
   "description": "Removes fog from water and lava.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
+  "version": "1.0.1",
+  "url": "https://github.com/Novaski32/No-Water-Or-Lava-Fog",
   "updateUrl": "",
-  "authorList": ["You"],
-  "credits": "Forge team",
+  "authorList": ["Novaski"],
+  "credits": "Novaski",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
